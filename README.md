@@ -1,1 +1,1 @@
-This is Kyle's first git project!!
+I love to use git!!
